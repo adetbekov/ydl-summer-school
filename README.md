@@ -1,4 +1,4 @@
-<a href="http://yessenovfoundation.org/en/o-fonde/programmyi/resursyi/razvitie-it-kompetentsiy/yessenov-data-lab/"><img src="https://raw.githubusercontent.com/adetbekov/ydl-summer-school/master/ydl.png" align="left" height="48"></a></br></br></br></br>    
+<a href="http://yessenovfoundation.org/en/o-fonde/programmyi/resursyi/razvitie-it-kompetentsiy/yessenov-data-lab/"><img src="https://raw.githubusercontent.com/adetbekov/ydl-summer-school/master/ydl.png" align="left" height="48"></a></br></br></br>    
 
 I am a finalist of YDL Summer School, which took place from June 11 to August 4, 2018. 
 
